@@ -1,0 +1,78 @@
+body
+{
+
+    background-repeat:  repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	
+	
+}
+
+#playlist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+	justify-content: center;
+	text-align:center;
+	background-color: green;
+}
+
+#playlistlu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+	justify-content: center;
+	text-align:center;
+	background-color: red;
+}
+
+
+#div3
+{
+	display:flex;
+	flex-direction:column;
+	justify-content: center;
+	text-align:center;
+	background:rgba(100,100,100, 0.3);
+	border-radius: 25px;
+}
+
+#div1
+{
+	margin-bottom: 30px;
+}
+
+video
+{
+}
+
+
+#ades
+{
+background-color: red;
+	
+
+height: 50px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+
+
+}
+
+#aades
+{
+
+height: 50px;
+font-size: 20px;
+}
+
+button
+{
+	background-color: white;
+	border-radius: 5px;
+}
+
+
+
